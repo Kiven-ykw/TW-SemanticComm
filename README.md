@@ -1,2 +1,1 @@
-
-Two-Way Semantic Transmission of Images without Feedback, https://arxiv.org/abs/2306.08903
+K. Yu, Q. He and G. Wu, "Two-Way Semantic Communications without Feedback," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3352666.
