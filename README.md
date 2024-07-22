@@ -1,3 +1,3 @@
-K. Yu, Q. He and G. Wu, "Two-Way Semantic Communications without Feedback," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3352666.
+K. Yu, Q. He, and G. Wu, ``Two-way semantic communications without feedback,'' \textit{IEEE Trans. Veh. Technol.}, vol. 73, no. 6, pp. 9077–9082, June 2024.
 
 If you find the code is useful for your research, please cite the aforementioned paper.
