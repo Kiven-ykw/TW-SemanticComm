@@ -10,7 +10,7 @@ Tensorflow implementation of the [paper](https://ieeexplore.ieee.org/document/10
 # Introduction
 Semantic communications can significantly improve transmission efficiency, especially in the low signal-to-noise (SNR) regime. However, two-way semantic communications still remain an unexplored topic, which is a critical issue in many machine communication scenarios. Simply extending existing semantic communication systems to the two-way situation requires bidirectional information feedback during the training process, resulting in significant communication overhead. To fill this gap, we investigate a two-way semantic communication (TW-SC) system, where the information feedback can be omitted by exploiting the weight reciprocity in the transceiver. Particularly, the channel simulator and semantic transceiver are implemented on both TW-SC nodes and the channel distribution is modeled by a conditional generative adversarial network. Simulation results demonstrate that the proposed TW-SC system performs closing to the state-of-the-art one-way semantic communication systems but requiring no feedback between the transceiver in training process.
 
-
+# System Model
 ![ ](./figure/TW_SC.png)
 >  Illustration of the structure of proposed TW-SC.
 
@@ -21,7 +21,7 @@ Semantic communications can significantly improve transmission efficiency, espec
 
 # Quick Start
 
-Install the environment and run the twoway_sc.py function directly for training
+Install the environment and run the Twoway_SC.py function directly for training
 
 # Experimental results
 
