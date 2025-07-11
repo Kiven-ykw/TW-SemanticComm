@@ -21,7 +21,7 @@ Semantic communications can significantly improve transmission efficiency, espec
 
 # Quick Start
 
-Install the environment and run the main.py function directly for training
+Install the environment and run the twoway_sc.py function directly for training
 
 # Experimental results
 
